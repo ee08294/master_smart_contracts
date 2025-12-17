@@ -397,13 +397,109 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Tendermint](https://docs.tendermint.com/) – BFT consensus engine.
   - [HotStuff](https://arxiv.org/abs/1803.05069) – BFT consensus algorithm.
 
-- **Cryptography basics**
-  - [Applied Cryptography](https://www.schneier.com/books/applied-cryptography/) – classic crypto book.
-  - [Cryptography I (Coursera)](https://www.coursera.org/learn/crypto) – Stanford crypto course.
+- **Cryptography fundamentals**
+  - [Applied Cryptography](https://www.schneier.com/books/applied-cryptography/) – classic crypto book by Bruce Schneier.
+  - [Cryptography I (Coursera)](https://www.coursera.org/learn/crypto) – Stanford crypto course by Dan Boneh.
+  - [Cryptography II (Coursera)](https://www.coursera.org/learn/crypto2) – advanced Stanford crypto course.
+  - [Introduction to Cryptography](https://www.coursera.org/learn/cryptography) – cryptography basics.
+  - [Crypto101](https://www.crypto101.io/) – free cryptography course.
+  - [Cryptography Stack Exchange](https://crypto.stackexchange.com/) – Q&A for cryptography.
+  - [IACR](https://www.iacr.org/) – International Association for Cryptologic Research.
+
+- **Hash functions & hashing**
   - [Hash Functions](https://ethereum.org/en/developers/docs/ethereum-stack/hashing/) – hashing in blockchain.
-  - [Digital Signatures](https://ethereum.org/en/developers/docs/transactions/) – ECDSA and signatures.
+  - [SHA-256](https://en.wikipedia.org/wiki/SHA-2) – Secure Hash Algorithm 256.
+  - [Keccak-256](https://keccak.team/) – Ethereum's hash function.
+  - [Blake2](https://www.blake2.net/) – fast cryptographic hash function.
+  - [Poseidon Hash](https://www.poseidon-hash.info/) – ZK-friendly hash function.
   - [Merkle Trees](https://ethereum.org/en/developers/docs/data-structures-and-encoding/merkle-patricia-trie/) – Merkle tree structures.
+  - [Merkle Proofs](https://ethereum.org/en/developers/tutorials/merkle-proofs-for-offline-data-integrity/) – Merkle proof tutorial.
+  - [Patricia Trie](https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/) – Ethereum's state tree.
+
+- **Digital signatures & ECDSA**
+  - [Digital Signatures](https://ethereum.org/en/developers/docs/transactions/) – ECDSA and signatures.
+  - [ECDSA Explained](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm) – ECDSA overview.
+  - [ECDSA in Ethereum](https://ethereum.org/en/developers/docs/transactions/#digital-signatures) – Ethereum signatures.
+  - [BLS Signatures](https://en.wikipedia.org/wiki/BLS_digital_signature) – Boneh-Lynn-Shacham signatures.
+  - [Schnorr Signatures](https://en.wikipedia.org/wiki/Schnorr_signature) – Schnorr signature scheme.
+  - [EdDSA](https://en.wikipedia.org/wiki/EdDSA) – Edwards-curve Digital Signature Algorithm.
+  - [Signature Aggregation](https://ethresearch.ch/t/aggregated-signatures-for-eth2/484) – signature aggregation.
+
+- **Elliptic curve cryptography**
   - [Elliptic Curve Cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) – ECC basics.
+  - [ECC Explained](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/) – ECC primer.
+  - [Secp256k1](https://en.bitcoin.it/wiki/Secp256k1) – Bitcoin/Ethereum curve.
+  - [Curve25519](https://en.wikipedia.org/wiki/Curve25519) – high-speed ECC curve.
+  - [BN254](https://hackmd.io/@jpw/bn254) – pairing-friendly curve.
+  - [BLS12-381](https://hackmd.io/@benjaminion/bls12-381) – ZK-friendly curve.
+  - [Elliptic Curve Visualizer](https://www.desmos.com/calculator/ialhd71we3) – interactive ECC visualization.
+
+- **Encryption & symmetric cryptography**
+  - [AES (Advanced Encryption Standard)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) – symmetric encryption.
+  - [ChaCha20](https://en.wikipedia.org/wiki/Salsa20) – stream cipher.
+  - [Poly1305](https://en.wikipedia.org/wiki/Poly1305) – message authentication code.
+  - [ChaCha20-Poly1305](https://tools.ietf.org/html/rfc8439) – authenticated encryption.
+  - [Encryption Modes](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation) – block cipher modes.
+
+- **Public key cryptography**
+  - [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) – Rivest-Shamir-Adleman.
+  - [Diffie-Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) – key exchange protocol.
+  - [ECDH](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman) – Elliptic Curve Diffie-Hellman.
+  - [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure) – PKI concepts.
+
+- **Zero-knowledge proofs (see ZK section)**
+  - [ZK Proofs Explained](https://www.zkproof.org/reference/main.html) – comprehensive ZK guide.
+  - [Why and How zk-SNARK Works](https://arxiv.org/abs/1906.07221) – mathematical deep dive.
+  - [ZK Learning Path](https://learn.0xparc.org/) – structured ZK course.
+  - See "Zero Knowledge (ZK) resources" section for more.
+
+- **Cryptographic libraries**
+  - [OpenSSL](https://www.openssl.org/) – cryptographic library.
+  - [Libsodium](https://libsodium.org/) – modern crypto library.
+  - [Bouncy Castle](https://www.bouncycastle.org/) – Java/C# crypto library.
+  - [Crypto++](https://www.cryptopp.com/) – C++ crypto library.
+  - [TweetNaCl](https://tweetnacl.cr.yp.to/) – minimal crypto library.
+  - [Noble](https://github.com/paulmillr/noble) – JavaScript crypto library.
+  - [secp256k1](https://github.com/bitcoin-core/secp256k1) – Bitcoin's crypto library.
+  - [Circom](https://github.com/iden3/circom) – ZK circuit compiler.
+
+- **Cryptography in blockchain**
+  - [Ethereum Cryptography](https://ethereum.org/en/developers/docs/ethereum-stack/) – crypto in Ethereum.
+  - [Bitcoin Cryptography](https://en.bitcoin.it/wiki/Cryptography) – crypto in Bitcoin.
+  - [Cryptographic Primitives](https://ethereum.org/en/developers/docs/ethereum-stack/) – blockchain crypto primitives.
+  - [Random Number Generation](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/) – randomness in PoS.
+  - [VRF (Verifiable Random Function)](https://en.wikipedia.org/wiki/Verifiable_random_function) – verifiable randomness.
+  - [Commitment Schemes](https://en.wikipedia.org/wiki/Commitment_scheme) – cryptographic commitments.
+
+- **Cryptography research & papers**
+  - [IACR ePrint Archive](https://eprint.iacr.org/) – cryptography research papers.
+  - [Crypto Conference](https://www.iacr.org/conferences/) – IACR conferences.
+  - [CRYPTO](https://www.iacr.org/meetings/crypto/) – annual crypto conference.
+  - [EUROCRYPT](https://www.iacr.org/meetings/eurocrypt/) – European crypto conference.
+  - [ASIACRYPT](https://www.iacr.org/meetings/asiacrypt/) – Asian crypto conference.
+  - [Real World Crypto](https://rwc.iacr.org/) – applied cryptography conference.
+
+- **Cryptography books**
+  - *Applied Cryptography* by Bruce Schneier – comprehensive crypto book.
+  - *Introduction to Modern Cryptography* by Katz & Lindell – modern crypto theory.
+  - *Cryptography Engineering* by Ferguson, Schneier, Kohno – practical crypto.
+  - *The Code Book* by Simon Singh – history of cryptography.
+  - *Understanding Cryptography* by Paar & Pelzl – crypto textbook.
+
+- **Cryptography tools & implementations**
+  - [Hash Calculator](https://emn178.github.io/online-tools/sha256.html) – online hash calculator.
+  - [ECDSA Signature Tool](https://www.bitaddress.org/) – signature generation.
+  - [Elliptic Curve Calculator](https://www.desmos.com/calculator/ialhd71we3) – ECC calculator.
+  - [Crypto Playground](https://cryptopals.com/) – crypto challenges.
+  - [Cryptohack](https://cryptohack.org/) – cryptography challenges.
+  - [Factoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge) – RSA factoring.
+
+- **Post-quantum cryptography**
+  - [NIST Post-Quantum Crypto](https://csrc.nist.gov/projects/post-quantum-cryptography) – PQC standardization.
+  - [Post-Quantum Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) – PQC overview.
+  - [Lattice-Based Crypto](https://en.wikipedia.org/wiki/Lattice-based_cryptography) – lattice cryptography.
+  - [Hash-Based Signatures](https://en.wikipedia.org/wiki/Hash-based_signatures) – hash-based crypto.
+  - [Code-Based Crypto](https://en.wikipedia.org/wiki/Code-based_cryptography) – code-based cryptography.
 
 - **Network protocols & P2P**
   - [Ethereum P2P](https://github.com/ethereum/devp2p) – Ethereum networking protocol.
