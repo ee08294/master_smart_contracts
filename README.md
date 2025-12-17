@@ -145,6 +145,75 @@ PRs are very welcome – add anything you’ve personally found useful.
 
 ---
 
+## Zero Knowledge (ZK) resources
+
+- **Learning ZK fundamentals**
+  - [ZK Proofs Explained](https://www.zkproof.org/reference/main.html) – comprehensive ZK proof guide.
+  - [Why and How zk-SNARK Works](https://arxiv.org/abs/1906.07221) – mathematical deep dive.
+  - [ZK Whiteboard Sessions](https://www.youtube.com/playlist?list=PLj80z0cJm8QFnY6VLVa84nr-21DNvjWH7) – ZK concepts explained visually.
+  - [ZK Proofs: A Primer](https://www.cryptologie.net/article/450/zk-proofs-a-primer/) – beginner-friendly introduction.
+  - [ZK Learning Path](https://learn.0xparc.org/) – 0xPARC's structured ZK course.
+  - [ZK Hack](https://www.zkhack.dev/) – ZK puzzles and challenges.
+  - [ZK Podcast](https://zeroknowledge.fm/) – interviews with ZK researchers and builders.
+
+- **ZK proof systems**
+  - [Circom](https://docs.circom.io/) – circuit language for zkSNARKs.
+  - [SnarkJS](https://github.com/iden3/snarkjs) – JavaScript zkSNARK implementation.
+  - [Groth16](https://eprint.iacr.org/2016/260) – efficient zkSNARK construction.
+  - [PLONK](https://eprint.iacr.org/2019/953) – universal SNARK with trusted setup.
+  - [STARKs](https://starkware.co/stark/) – transparent proofs (no trusted setup).
+  - [Halo2](https://zcash.github.io/halo2/) – PLONKish proving system.
+  - [Nova](https://eprint.iacr.org/2021/370) – recursive SNARKs.
+
+- **ZK libraries & frameworks**
+  - [Circom](https://github.com/iden3/circom) – circuit compiler.
+  - [SnarkJS](https://github.com/iden3/snarkjs) – JavaScript zkSNARK toolkit.
+  - [Arkworks](https://arkworks.rs/) – Rust ZK proof libraries.
+  - [Bellman](https://github.com/zcash/bellman) – Rust zkSNARK library.
+  - [gnark](https://github.com/Consensys/gnark) – Go ZK proof library.
+  - [Noir](https://noir-lang.org/) – ZK DSL by Aztec.
+  - [Leo](https://www.aleo.org/post/leo) – ZK programming language.
+  - [Risc0](https://www.risczero.com/) – ZK virtual machine.
+
+- **zkEVMs & zk-rollups**
+  - [zkSync Era](https://docs.zksync.io/) – zkEVM rollup.
+  - [Polygon zkEVM](https://docs.polygon.technology/zkEVM/) – EVM-equivalent zk-rollup.
+  - [Scroll](https://docs.scroll.io/) – zkEVM rollup.
+  - [Linea](https://docs.linea.build/) – zkEVM by Consensys.
+  - [Taiko](https://docs.taiko.xyz/) – based rollup with zk proofs.
+  - [Starknet](https://docs.starknet.io/) – STARK-based L2.
+  - [Aztec](https://docs.aztec.network/) – private smart contracts.
+
+- **Privacy-preserving smart contracts**
+  - [Aztec Protocol](https://docs.aztec.network/) – private DeFi on Ethereum.
+  - [Tornado Cash](https://github.com/tornadocash/tornado-core) – private transactions (reference only).
+  - [Semaphore](https://semaphore.appliedzkp.org/) – anonymous signaling.
+  - [Zexe](https://eprint.iacr.org/2018/962) – decentralized private computation.
+  - [Zcash](https://z.cash/technology/) – privacy-focused cryptocurrency.
+
+- **ZK development tools**
+  - [Circom Compiler](https://github.com/iden3/circom) – compile circuits.
+  - [Circomlib](https://github.com/iden3/circomlib) – circuit templates.
+  - [Powers of Tau](https://github.com/weijiekoh/perpetualpowersoftau) – trusted setup ceremony.
+  - [Circom Snarkjs Template](https://github.com/iden3/circom-starter) – starter project.
+  - [Hardhat Circom](https://github.com/projectsophon/hardhat-circom) – Hardhat plugin for Circom.
+  - [Circomkit](https://github.com/erhant/circomkit) – Circom development toolkit.
+
+- **ZK research & papers**
+  - [Zcash Protocol Spec](https://zips.z.cash/protocol/protocol.pdf) – Zcash technical spec.
+  - [ZK Proofs Research](https://zkproof.org/) – academic ZK research hub.
+  - [IACR ePrint](https://eprint.iacr.org/) – cryptography research papers.
+  - [ZK Research Papers](https://github.com/matter-labs/awesome-zero-knowledge-proofs) – curated ZK papers.
+  - [Vitalik's ZK Posts](https://vitalik.ca/general/2022/06/15/using_snarks.html) – ZK explanations.
+
+- **ZK in production**
+  - [zkSync Contracts](https://github.com/matter-labs/zksync) – zkSync smart contracts.
+  - [Polygon zkEVM Contracts](https://github.com/0xPolygonHermez/zkevm-contracts) – Polygon zkEVM.
+  - [Starknet Contracts](https://github.com/starknet-edu/starknet-cairo-101) – Cairo smart contracts.
+  - [Aztec Contracts](https://github.com/AztecProtocol/aztec-packages) – Aztec Noir contracts.
+
+---
+
 ## Standards, libraries & tooling
 
 - **Standards**
