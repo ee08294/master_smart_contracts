@@ -165,6 +165,34 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [a16z Crypto Security](https://a16zcrypto.com/tag/security/) – security insights.
   - [Paradigm Security](https://www.paradigm.xyz/security) – security research.
   - [IACR Cryptology ePrint](https://eprint.iacr.org/) – cryptography papers.
+  - [Security Research Papers](https://github.com/pcaversaccio/security-research-papers) – curated security papers.
+
+- **Formal verification**
+  - [Certora Prover](https://www.certora.com/) – formal verification tool.
+  - [K Framework](https://kframework.org/) – formal verification framework.
+  - [KEVM](https://github.com/runtimeverification/evm-semantics) – formal semantics of EVM.
+  - [Act](https://github.com/ethereum/act) – specification language for smart contracts.
+  - [Dafny](https://github.com/dafny-lang/dafny) – verification-aware programming language.
+  - [Why3](https://why3.lri.fr/) – platform for deductive program verification.
+
+- **Security checklists & guides**
+  - [Smart Contract Security Checklist](https://github.com/sigp/smart-contract-security-checklist) – comprehensive checklist.
+  - [Security Best Practices](https://consensys.github.io/smart-contract-best-practices/) – Consensys guide.
+  - [Pre-Audit Checklist](https://github.com/nascentxyz/simple-security-toolkit) – pre-audit preparation.
+  - [Security Standards](https://github.com/ConsenSys/smart-contract-best-practices) – best practices.
+  - [DeFi Security Best Practices](https://github.com/nascentxyz/simple-security-toolkit) – DeFi-specific security.
+
+- **Bug bounty platforms**
+  - [Immunefi](https://immunefi.com/) – Web3 bug bounty platform.
+  - [HackerOne](https://www.hackerone.com/) – security platform.
+  - [Code4rena](https://code4rena.com/) – competitive audit platform.
+  - [Sherlock](https://www.sherlock.xyz/) – audit contests.
+  - [Cantina](https://cantina.xyz/) – security marketplace.
+
+- **Security communities**
+  - [Ethereum Security Discord](https://discord.gg/ethereum) – security discussions.
+  - [Secureum Discord](https://discord.gg/secureum) – security community.
+  - [Trail of Bits Discord](https://discord.gg/trailofbits) – security tooling community.
 
 ---
 
@@ -431,6 +459,91 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [a16z Crypto Research](https://a16zcrypto.com/research/) – crypto research.
   - [Paradigm Research](https://www.paradigm.xyz/writing) – protocol research.
   - [ArXiv Cryptography](https://arxiv.org/list/cs.CR/recent) – latest crypto papers.
+  - [Blockchain Research Papers](https://github.com/decrypto-org/blockchain-papers) – curated papers.
+
+- **Blockchain infrastructure & APIs**
+  - [Alchemy](https://www.alchemy.com/) – blockchain API and infrastructure.
+  - [Infura](https://www.infura.io/) – Ethereum API service.
+  - [QuickNode](https://www.quicknode.com/) – blockchain infrastructure.
+  - [Ankr](https://www.ankr.com/) – Web3 infrastructure.
+  - [Moralis](https://moralis.io/) – Web3 development platform.
+  - [Thirdweb](https://thirdweb.com/) – Web3 development framework.
+  - [Pinata](https://www.pinata.cloud/) – IPFS pinning service.
+  - [The Graph](https://thegraph.com/) – decentralized indexing protocol.
+
+- **Blockchain explorers & analytics**
+  - [Etherscan](https://etherscan.io/) – Ethereum block explorer.
+  - [Blockscout](https://blockscout.com/) – open-source explorer.
+  - [Dune Analytics](https://dune.com/) – blockchain analytics platform.
+  - [Nansen](https://www.nansen.ai/) – on-chain analytics.
+  - [Etherscan API](https://docs.etherscan.io/) – blockchain data API.
+  - [Tenderly](https://tenderly.co/) – transaction simulation and monitoring.
+  - [OpenChain](https://openchain.xyz/) – on-chain analytics.
+
+- **Blockchain testing & simulation**
+  - [Ganache](https://trufflesuite.com/ganache/) – personal blockchain for testing.
+  - [Hardhat Network](https://hardhat.org/hardhat-network/docs/overview) – local Ethereum network.
+  - [Anvil](https://book.getfoundry.sh/anvil/) – local testnet node.
+  - [Foundry Cheatcodes](https://book.getfoundry.sh/cheatcodes/) – testing utilities.
+  - [Tenderly Forks](https://docs.tenderly.co/simulations-and-forks) – fork mainnet for testing.
+  - [Alchemy Fork](https://docs.alchemy.com/reference/fork-mainnet) – fork mainnet.
+
+- **Blockchain monitoring & alerting**
+  - [OpenZeppelin Defender](https://defender.openzeppelin.com/) – security operations.
+  - [Forta](https://forta.org/) – decentralized security monitoring.
+  - [Tenderly Alerts](https://tenderly.co/alerts) – transaction monitoring.
+  - [PagerDuty for Blockchain](https://www.pagerduty.com/) – incident management.
+  - [Grafana Blockchain Dashboards](https://grafana.com/grafana/dashboards/) – monitoring dashboards.
+
+- **Multi-chain development**
+  - [Chainlink CCIP](https://chain.link/cross-chain) – cross-chain infrastructure.
+  - [Wormhole](https://docs.wormhole.com/) – cross-chain messaging.
+  - [LayerZero](https://docs.layerzero.network/) – omnichain interoperability.
+  - [Axelar](https://docs.axelar.dev/) – cross-chain communication.
+  - [Hyperlane](https://docs.hyperlane.xyz/) – permissionless interoperability.
+  - [Multichain](https://docs.multichain.org/) – cross-chain router.
+  - [Socket](https://docs.socket.tech/) – cross-chain infrastructure.
+
+- **Blockchain data & indexing**
+  - [The Graph](https://thegraph.com/) – decentralized indexing.
+  - [Subgraph Studio](https://thegraph.com/studio/) – subgraph development.
+  - [Alchemy SDK](https://docs.alchemy.com/reference/alchemy-sdk-quickstart) – blockchain SDK.
+  - [Ethers.js](https://docs.ethers.org/) – Ethereum library.
+  - [Web3.js](https://web3js.readthedocs.io/) – Ethereum JavaScript API.
+  - [Viem](https://viem.sh/) – TypeScript Ethereum library.
+  - [Wagmi](https://wagmi.sh/) – React Hooks for Ethereum.
+
+- **Blockchain wallets & key management**
+  - [MetaMask](https://docs.metamask.io/) – browser wallet.
+  - [WalletConnect](https://docs.walletconnect.com/) – wallet connection protocol.
+  - [Web3Auth](https://web3auth.io/docs/) – authentication infrastructure.
+  - [Safe (Gnosis Safe)](https://docs.safe.global/) – smart contract wallet.
+  - [Ledger](https://www.ledger.com/) – hardware wallet.
+  - [Trezor](https://trezor.io/) – hardware wallet.
+  - [Key Management](https://ethereum.org/en/developers/docs/accounts/) – account management.
+
+- **Blockchain scaling solutions**
+  - [Polygon](https://docs.polygon.technology/) – scaling solution.
+  - [Arbitrum](https://docs.arbitrum.io/) – optimistic rollup.
+  - [Optimism](https://docs.optimism.io/) – optimistic rollup.
+  - [Base](https://docs.base.org/) – OP Stack L2.
+  - [zkSync](https://docs.zksync.io/) – zk-rollup.
+  - [Starknet](https://docs.starknet.io/) – STARK-based L2.
+  - [Scroll](https://docs.scroll.io/) – zkEVM rollup.
+
+- **Blockchain governance**
+  - [OpenZeppelin Governor](https://docs.openzeppelin.com/contracts/4.x/api/governance) – governance contracts.
+  - [Compound Governor](https://compound.finance/docs/governance) – governance system.
+  - [Aragon](https://aragon.org/) – DAO framework.
+  - [Snapshot](https://docs.snapshot.org/) – off-chain voting.
+  - [Tally](https://www.tally.xyz/) – on-chain governance platform.
+
+- **Blockchain standards & specifications**
+  - [EIPs](https://eips.ethereum.org/) – Ethereum Improvement Proposals.
+  - [ERC Standards](https://eips.ethereum.org/erc) – token and contract standards.
+  - [BIPs](https://github.com/bitcoin/bips) – Bitcoin Improvement Proposals.
+  - [Ethereum JSON-RPC](https://ethereum.org/en/developers/docs/apis/json-rpc/) – RPC specification.
+  - [Ethereum ABI](https://docs.soliditylang.org/en/latest/abi-spec.html) – Application Binary Interface.
 
 ## How to use this repo
 
