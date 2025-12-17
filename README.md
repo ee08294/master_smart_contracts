@@ -545,6 +545,145 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [Ethereum JSON-RPC](https://ethereum.org/en/developers/docs/apis/json-rpc/) – RPC specification.
   - [Ethereum ABI](https://docs.soliditylang.org/en/latest/abi-spec.html) – Application Binary Interface.
 
+- **Alternative blockchain ecosystems**
+  - [Solana](https://docs.solana.com/) – high-performance blockchain.
+  - [Cosmos](https://docs.cosmos.network/) – internet of blockchains.
+  - [Polkadot](https://docs.polkadot.network/) – heterogeneous multi-chain.
+  - [Avalanche](https://docs.avax.network/) – platform for custom blockchains.
+  - [Near Protocol](https://docs.near.org/) – developer-friendly blockchain.
+  - [Sui](https://docs.sui.io/) – next-gen blockchain platform.
+  - [Aptos](https://aptos.dev/) – Move-based blockchain.
+  - [Cardano](https://docs.cardano.org/) – research-driven blockchain.
+  - [Tezos](https://tezos.com/learn/) – self-amending blockchain.
+  - [BNB Chain](https://docs.bnbchain.org/) – BSC and BNB Greenfield.
+
+- **Tokenomics & economics**
+  - [Token Engineering](https://tokenengineering.net/) – token design framework.
+  - [Tokenomics Design](https://www.tokenomics.com/) – token economics guide.
+  - [Mechanism Design](https://www.paradigm.xyz/2020/08/mechanism-design) – protocol design.
+  - [Token Distribution](https://www.paradigm.xyz/2020/10/token-distribution) – distribution strategies.
+  - [Vesting Schedules](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/finance/VestingWallet.sol) – vesting implementations.
+  - [Token Standards Comparison](https://ethereum.org/en/developers/docs/standards/tokens/) – token standard overview.
+
+- **Blockchain storage solutions**
+  - [IPFS](https://docs.ipfs.tech/) – InterPlanetary File System.
+  - [Arweave](https://docs.arweave.org/) – permanent storage.
+  - [Filecoin](https://docs.filecoin.io/) – decentralized storage network.
+  - [Storj](https://docs.storj.io/) – decentralized cloud storage.
+  - [Swarm](https://docs.ethswarm.org/) – Ethereum storage.
+  - [Pinata](https://docs.pinata.cloud/) – IPFS pinning service.
+  - [NFT.Storage](https://nft.storage/) – NFT storage service.
+
+- **Blockchain identity & reputation**
+  - [ENS (Ethereum Name Service)](https://docs.ens.domains/) – decentralized naming.
+  - [Unstoppable Domains](https://docs.unstoppabledomains.com/) – blockchain domains.
+  - [Ceramic](https://developers.ceramic.network/) – decentralized identity.
+  - [Spruce ID](https://docs.spruceid.com/) – self-sovereign identity.
+  - [BrightID](https://www.brightid.org/) – proof of unique humanity.
+  - [Worldcoin](https://worldcoin.org/) – proof of personhood.
+  - [Gitcoin Passport](https://docs.passport.xyz/) – identity verification.
+
+- **Blockchain gaming & NFTs**
+  - [ERC-721](https://eips.ethereum.org/EIPS/eip-721) – NFT standard.
+  - [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) – multi-token standard.
+  - [OpenSea API](https://docs.opensea.io/) – NFT marketplace API.
+  - [Rarible Protocol](https://docs.rarible.org/) – NFT protocol.
+  - [Immutable X](https://docs.immutable.com/) – NFT scaling solution.
+  - [Enjin](https://docs.enjin.io/) – blockchain gaming platform.
+  - [Polygon Gaming](https://docs.polygon.technology/docs/develop/gaming/) – gaming on Polygon.
+
+- **Blockchain education & courses**
+  - [Ethereum.org Learn](https://ethereum.org/en/learn/) – Ethereum learning hub.
+  - [CryptoZombies](https://cryptozombies.io/) – Solidity course.
+  - [Buildspace](https://buildspace.so/) – Web3 project-based learning.
+  - [Pointer](https://www.pointer.gg/) – Web3 development courses.
+  - [LearnWeb3](https://learnweb3.io/) – Web3 developer education.
+  - [Questbook](https://www.questbook.app/) – Web3 learning platform.
+  - [Alchemy University](https://university.alchemy.com/) – blockchain education.
+  - [Consensys Academy](https://consensys.net/academy/) – blockchain courses.
+
+- **Blockchain events & conferences**
+  - [ETHGlobal](https://ethglobal.com/) – Ethereum hackathons.
+  - [Devcon](https://devcon.org/) – Ethereum developer conference.
+  - [ETHDenver](https://www.ethdenver.com/) – Ethereum conference.
+  - [Consensus](https://consensus2024.coindesk.com/) – blockchain conference.
+  - [Ethereum Community Conference](https://ethcc.io/) – European Ethereum conference.
+  - [Solana Breakpoint](https://solana.com/breakpoint) – Solana conference.
+  - [Polkadot Decoded](https://decoded.polkadot.network/) – Polkadot conference.
+
+- **Blockchain metrics & analytics**
+  - [DeFiLlama](https://defillama.com/) – DeFi TVL and analytics.
+  - [DeFiPulse](https://defipulse.com/) – DeFi analytics.
+  - [Token Terminal](https://tokenterminal.com/) – crypto fundamentals.
+  - [Glassnode](https://glassnode.com/) – on-chain analytics.
+  - [Santiment](https://santiment.net/) – crypto market intelligence.
+  - [Messari](https://messari.io/) – crypto research and data.
+  - [CoinGecko](https://www.coingecko.com/) – cryptocurrency data.
+  - [CoinMarketCap](https://coinmarketcap.com/) – crypto market data.
+
+- **Blockchain compliance & regulation**
+  - [Chainalysis](https://www.chainalysis.com/) – blockchain compliance.
+  - [Elliptic](https://www.elliptic.co/) – crypto compliance.
+  - [TRM Labs](https://www.trmlabs.com/) – blockchain intelligence.
+  - [CipherTrace](https://ciphertrace.com/) – crypto compliance.
+  - [OFAC Sanctions](https://ofac.treasury.gov/) – sanctions compliance.
+  - [FATF Guidance](https://www.fatf-gafi.org/) – crypto regulation guidance.
+  - [SEC Crypto Framework](https://www.sec.gov/cryptoassets) – SEC guidance.
+
+- **Blockchain performance & optimization**
+  - [EVM Performance](https://ethereum.org/en/developers/docs/evm/) – EVM optimization.
+  - [Gas Optimization](https://github.com/0xKitsune/gas-optimization) – gas saving techniques.
+  - [Storage Optimization](https://ethereum.org/en/developers/docs/storage/) – storage efficiency.
+  - [Batch Operations](https://ethereum.org/en/developers/docs/transactions/) – transaction batching.
+  - [State Channels](https://ethereum.org/en/developers/docs/scaling/state-channels/) – off-chain scaling.
+  - [Sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/) – sidechain solutions.
+
+- **Blockchain development frameworks**
+  - [Truffle Suite](https://trufflesuite.com/) – development framework.
+  - [Embark](https://framework.embarklabs.io/) – dApp framework.
+  - [Buidler](https://buidler.dev/) – task runner (now Hardhat).
+  - [Scribe](https://scribe.codes/) – smart contract documentation.
+  - [Sourcify](https://sourcify.dev/) – contract verification.
+  - [Ethernal](https://www.tryethernal.com/) – blockchain explorer for devs.
+
+- **Blockchain testing strategies**
+  - [Testing Best Practices](https://ethereum.org/en/developers/docs/smart-contracts/testing/) – testing guide.
+  - [Property-Based Testing](https://github.com/crytic/building-secure-contracts) – property testing.
+  - [Integration Testing](https://ethereum.org/en/developers/docs/smart-contracts/testing/) – integration tests.
+  - [Fork Testing](https://book.getfoundry.sh/cheatcodes/fork-testing) – fork-based testing.
+  - [Invariant Testing](https://book.getfoundry.sh/invariant-testing) – invariant testing.
+  - [Differential Testing](https://github.com/crytic/building-secure-contracts) – differential fuzzing.
+
+- **Blockchain documentation tools**
+  - [NatSpec](https://docs.soliditylang.org/en/latest/natspec-format.html) – Solidity documentation.
+  - [Docusaurus](https://docusaurus.io/) – documentation framework.
+  - [GitBook](https://www.gitbook.com/) – documentation platform.
+  - [Mintlify](https://mintlify.com/) – documentation builder.
+  - [Scribe](https://scribe.codes/) – smart contract docs generator.
+
+- **Blockchain communities & forums**
+  - [Ethereum Discord](https://discord.gg/ethereum) – Ethereum community.
+  - [Solidity Discord](https://discord.gg/solidity) – Solidity community.
+  - [Foundry Discord](https://discord.gg/foundry) – Foundry community.
+  - [Hardhat Discord](https://discord.gg/hardhat) – Hardhat community.
+  - [Web3 Builders](https://web3builders.dev/) – builder community.
+  - [Developer DAO](https://www.developerdao.com/) – developer community.
+
+- **Blockchain podcasts & media**
+  - [Bankless](https://banklesshq.com/) – DeFi and crypto podcast.
+  - [Unchained](https://unchainedpodcast.com/) – crypto podcast.
+  - [The Defiant](https://thedefiant.io/podcasts) – DeFi podcast.
+  - [Epicenter](https://epicenter.tv/) – blockchain podcast.
+  - [Zero Knowledge](https://zeroknowledge.fm/) – ZK podcast.
+  - [a16z Crypto](https://a16zcrypto.com/podcasts/) – crypto podcast.
+
+- **Blockchain job boards & careers**
+  - [Crypto Jobs List](https://cryptojobslist.com/) – crypto job board.
+  - [Web3.career](https://web3.career/) – Web3 jobs.
+  - [Crypto Jobs](https://crypto.jobs/) – blockchain jobs.
+  - [Remote3](https://remote3.co/) – remote Web3 jobs.
+  - [CryptoJobs](https://cryptojobs.com/) – blockchain careers.
+
 ## How to use this repo
 
 - **Browsing**: scroll through the protocol table, pick a protocol, and deep‑dive into its repo + docs.
