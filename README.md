@@ -123,6 +123,10 @@ PRs are very welcome – add anything you’ve personally found useful.
   - [RareSkills Security Course](https://www.rareskills.io/security) – advanced security training.
   - [Consensys Academy](https://consensys.net/academy/) – blockchain security courses.
   - [Blockchain Security Alliance](https://blockchainsecurityalliance.org/) – security resources.
+  - [Encode Club Auditing Bootcamps](https://www.encode.club/) – security and auditing bootcamps.
+  - [OpenZeppelin University](https://university.openzeppelin.com/) – security and smart contract courses.
+  - [Immunefi Academy](https://www.immunefi.com/academy/) – Web3 security and bug bounty education.
+  - [Secureum Epoch CTFs](https://secureum.xyz/) – CTF-style security training.
 
 - **Audit firms & reports**
   - [OpenZeppelin Audits](https://blog.openzeppelin.com/security-audits/) – audit reports.
